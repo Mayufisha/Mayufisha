@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Samuel Molla
 
-Frontend developer passionate about crafting elegant & efficient web solutions using modern technologies.  
-Currently studying **Computer Systems Technology** at Vancouver Community College (VCC) and building projects that combine creativity with clean, scalable code.
+Frontend-focused full-stack developer passionate about building scalable, efficient, and visually appealing web applications.  
+Currently studying **Computer Systems Technology** at Vancouver Community College (VCC) and creating projects that merge strong backend logic with intuitive frontend design.
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a frontend-focused full-stack developer with a love for solving complex problems and designing user-friendly interfaces.  
-My journey started coding on mobile devices (HTML, CSS, JS), then expanded into React, Python, and C++.  
-When I’m not coding, I enjoy exploring UI/UX design in Figma and occasionally playing chess ♟️.
+I’m an aspiring full-stack developer who enjoys turning ideas into fully functional applications — from designing engaging user interfaces to developing robust backend systems.  
+My journey began coding on mobile devices using HTML, CSS, and JavaScript, and has since expanded into working with React, Python, and C++.  
+I’m driven by a desire to solve real-world problems with clean, maintainable code and to continuously learn new tools and technologies that improve the development process.
 
 ---
 
