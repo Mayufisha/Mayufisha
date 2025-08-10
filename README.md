@@ -57,11 +57,12 @@ When I’m not coding, I enjoy exploring UI/UX design in Figma and occasionally 
 ---
 
 ## 📅 What's Next
- 
-- **🚀 Modern Backend Framework** – Exploring frameworks beyond Express.js  
-- **✍ Technical Blog** – Writing about coding challenges and learning experiences
 
+- **🚀 Modern Full-Stack Development** – Strengthening expertise in building end-to-end applications with seamless frontend–backend integration.  
+- **⚡ API Performance Optimization** – Enhancing REST and future GraphQL APIs for speed, scalability, and security.  
+- **🗄 Advanced Database Design** – Implementing optimized schemas, indexing, and query strategies for large datasets in MongoDB and SQL-based systems. 
 ---
+
 
 ## 📫 Connect With Me
 
