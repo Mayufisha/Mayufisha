@@ -7,7 +7,7 @@ Currently studying **Computer Systems Technology** at Vancouver Community Colleg
 
 ## 👨‍💻 About Me
 
-I’m an aspiring full-stack developer who enjoys turning ideas into fully functional applications — from designing engaging user interfaces to developing robust backend systems.  
+I’m an aspiring full-stack developer who enjoys turning ideas into fully functional applications - from designing engaging user interfaces to developing robust backend systems.  
 My journey began coding on mobile devices using HTML, CSS, and JavaScript, and has since expanded into working with React, Python, and C++.  
 I’m driven by a desire to solve real-world problems with clean, maintainable code and to continuously learn new tools and technologies that improve the development process.
 
@@ -52,7 +52,6 @@ I’m driven by a desire to solve real-world problems with clean, maintainable c
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
 ---
 
